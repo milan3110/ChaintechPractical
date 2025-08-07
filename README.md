@@ -90,7 +90,3 @@ Built by an iOS Developer with **3 years of experience** in Swift, SwiftUI, Core
 4. Test encryption and add/edit flows
 
 ---
-
-## 📄 License
-
-MIT License
